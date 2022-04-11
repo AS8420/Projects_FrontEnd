@@ -1,0 +1,24 @@
+```css
+input{
+
+width:150px;
+height:100px;
+font-size:75px;
+border-radius:10px;
+margin:10px;
+background-color:black;
+color: white;
+border-style: black solid;
+
+}
+ #calcform{
+margin-left:225px;
+margin-top:20px;
+}
+h1{
+text-align:center;
+font-size:80px;
+margin-right:150px;
+margin-top:20px;
+}
+```
